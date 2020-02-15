@@ -26,7 +26,7 @@ artist, you can probably skip this step as you likely have work that is already 
 Now we get to what sets Crypto Art NFTs (what we're making here) apart from other forms of digital art.  The tokens!
 
 * [Know Your Token - Part One](https://beta.cent.co/+sku644)
-* [Tokenizing (minting) your work](https://cryptoartschool.github.io/IntroCapsule/4.1-Tokenizing-(minting)-your-work)
+* [Tokenizing (minting) your work](https://cryptoartschool.github.io/IntroCapsule/4.1-Tokenizing-your-work)
 
 
 For Artists Only:  Once you have completed the above steps, you can apply for credit for this course:
