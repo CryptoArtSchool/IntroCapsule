@@ -1,4 +1,4 @@
-#Crypto Art School
+
 
 ## Intro to Crypto Art for Artists and Collectors
 
