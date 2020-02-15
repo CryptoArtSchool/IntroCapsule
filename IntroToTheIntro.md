@@ -21,6 +21,7 @@ with no digital art background, there are many apps and tutorials to help you ge
 artist, you can probably skip this step as you likely have work that is already ready to be tokenized.
 
 * [Creating your first piece of art](https://cryptoartschool.github.io/IntroCapsule/3.1-Creating-the-image-your-want-to-tokenize)
+* [Tools tutorials](https://beta.cent.co/~cryptoartschool)
 
 Now we get to what sets Crypto Art NFTs (what we're making here) apart from other forms of digital art.  The tokens!
 
