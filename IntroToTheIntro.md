@@ -15,10 +15,9 @@ Second, do you already have a wallet?  If so, skip section 2.  If not, read thes
 * [Setting up your wallet](https://cryptoartschool.github.io/IntroCapsule/2.1-Setting-up-your-wallet)
 * [Funding your wallet](https://cryptoartschool.github.io/IntroCapsule/2.2-Funding-a-wallet)
 
-Third, you might just think this is for artists, but collectors can also find it useful to know about what tools are 
-being used, what the 'look' of each tool is, and how easy or difficult it is to achieve said effect.  For artists starting
-with no digital art background, there are many apps and tutorials to help you get started.  If you are already a digital
-artist, you can probably skip this step as you likely have work that is already ready to be tokenized.
+Third, you might just think this section is only for artists, but collectors can also find it useful to know about what 
+tools are being used, what the 'look' of each tool is, and how easy or difficult it is to achieve said effect.  For artists starting with no digital art background, there are many apps and tutorials to help you get started.  If you are already a digital artist, check out some of the tools here and have a look at any you're unfamiliar with, see if any capture your
+curiosity!
 
 * [Creating your first piece of art](https://cryptoartschool.github.io/IntroCapsule/3.1-Creating-the-image-your-want-to-tokenize)
 * [Tools tutorials](https://beta.cent.co/~cryptoartschool)
@@ -29,5 +28,7 @@ Now we get to what sets Crypto Art NFTs (what we're making here) apart from othe
 * [Tokenizing (minting) your work](https://cryptoartschool.github.io/IntroCapsule/4.1-Tokenizing-your-work)
 
 
-For Artists Only:  Once you have completed the above steps, you can apply for credit for this course:
+Once you have completed all of the above steps, you can apply for credit for this course:
 * [Verifying and Completion Credit](https://cryptoartschool.github.io/IntroCapsule/5.1-Verifying-and-Completion-Credit)
+
+If you're ready for more, please feel free to leave any suggestions for content you'd like to see!  Many more topics are planned, and this is only the beginning of the journey with Crypto Art School!
