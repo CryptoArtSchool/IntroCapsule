@@ -19,7 +19,7 @@ Third, you'll want to know where to find Cryptoart, how to find out more about s
 
 * [Little essentials](https://cryptoartschool.github.io/IntroCapsule/3.1-Little-essentials)
 
-Now, you might just think this section is only for artists, but collectors can also find it useful to know about what 
+Now, you might just think this next section is only for artists, but collectors can also find it useful to know about what 
 tools are being used, what the 'look' of each tool is, and how easy or difficult it is to achieve said effect.  For artists starting with no digital art background, there are many apps and tutorials to help you get started.  If you are already a digital artist, check out some of the tools here and have a look at any you're unfamiliar with, see if any capture your
 curiosity!
 
