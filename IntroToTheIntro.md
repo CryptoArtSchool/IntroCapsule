@@ -15,20 +15,24 @@ Second, do you already have a wallet?  If so, skip section 2.  If not, read thes
 * [Setting up your wallet](https://cryptoartschool.github.io/IntroCapsule/2.1-Setting-up-your-wallet)
 * [Funding your wallet](https://cryptoartschool.github.io/IntroCapsule/2.2-Funding-a-wallet)
 
-Third, you might just think this section is only for artists, but collectors can also find it useful to know about what 
+Third, you'll want to know where to find Cryptoart, how to find out more about some of the other artists in this space, what kinds of different options there are for sales mechanics and auctions... All kinds of little things that it helps to know to get you creating and collecting confidently!
+
+* [Little essentials](https://cryptoartschool.github.io/IntroCapsule/3.1-Little-essentials)
+
+Now, you might just think this section is only for artists, but collectors can also find it useful to know about what 
 tools are being used, what the 'look' of each tool is, and how easy or difficult it is to achieve said effect.  For artists starting with no digital art background, there are many apps and tutorials to help you get started.  If you are already a digital artist, check out some of the tools here and have a look at any you're unfamiliar with, see if any capture your
 curiosity!
 
-* [Creating your first piece of art](https://cryptoartschool.github.io/IntroCapsule/3.1-Creating-the-image-your-want-to-tokenize)
+* [Creating your first piece of art](https://cryptoartschool.github.io/IntroCapsule/4.1-Creating-the-image-your-want-to-tokenize)
 * [Tools tutorials](https://beta.cent.co/~cryptoartschool)
 
 Now we get to what sets Crypto Art NFTs (what we're making here) apart from other forms of digital art.  The tokens!
 
 * [Know Your Token - Part One](https://beta.cent.co/+sku644)
-* [Tokenizing (minting) your work](https://cryptoartschool.github.io/IntroCapsule/4.1-Tokenizing-your-work)
+* [Tokenizing (minting) your work](https://cryptoartschool.github.io/IntroCapsule/5.1-Tokenizing-your-work)
 
 
 Once you have completed all of the above steps, you can apply for credit for this course:
-* [Verifying and Completion Credit](https://cryptoartschool.github.io/IntroCapsule/5.1-Verifying-and-Completion-Credit)
+* [Verifying and Completion Credit](https://cryptoartschool.github.io/IntroCapsule/6.1-Verifying-and-Completion-Credit)
 
 If you're ready for more, please feel free to leave any suggestions for content you'd like to see!  Many more topics are planned, and this is only the beginning of the journey with Crypto Art School!
