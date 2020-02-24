@@ -5,7 +5,7 @@
 Below you will find links to the pages and resources that will help you get started with the world of Crypto Art.
 
 First, do you want to become a Cryptoartist?  If so, start with section 1.  If not, these may make interesting reading for 
-potential collectors as well, and who knows, you might just joing the ranks of the Artist / Collectors in this space.
+potential collectors as well, and who knows, you might just join the ranks of the Artist / Collectors in this space.
 
 * [Can I become a Crypto Artist?](https://cryptoartschool.github.io/IntroCapsule/1.1-Can-I-become-a-Crypto-Artist)
 * [You are now entering Unrealcity](https://cryptoartschool.github.io/IntroCapsule/1.2-You-Are-Now-Entering-Unrealcity)
@@ -26,7 +26,7 @@ curiosity!
 * [Creating your first piece of art](https://cryptoartschool.github.io/IntroCapsule/4.1-Creating-the-image-your-want-to-tokenize)
 * [Tools tutorials](https://beta.cent.co/~cryptoartschool)
 
-Now we get to what sets Crypto Art NFTs (what we're making here) apart from other forms of digital art.  The tokens!
+Now we get to what sets Crypto Art NFTs (what we're making here) apart from other forms of digital art; the tokens!
 
 * [Know Your Token - Part One](https://beta.cent.co/+sku644)
 * [Tokenizing (minting) your work](https://cryptoartschool.github.io/IntroCapsule/5.1-Tokenizing-your-work)
