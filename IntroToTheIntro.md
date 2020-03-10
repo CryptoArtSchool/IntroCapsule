@@ -31,7 +31,7 @@ Now, you might just think this next section is only for artists, but collectors 
 tools are being used, what the 'look' of each tool is, and how easy or difficult it is to achieve said effect.  For artists starting with no digital art background, there are many apps and tutorials to help you get started.  If you are already a digital artist, check out some of the tools here and have a look at any you're unfamiliar with, see if any capture your
 curiosity!
 
-* [Creating your first piece of art](https://cryptoartschool.github.io/IntroCapsule/4.1-Creating-the-image-you-want-to-tokenize.md)
+* [Creating your first piece of art](https://cryptoartschool.github.io/IntroCapsule/4.1-Creating-the-image-you-want-to-tokenize)
 * [Tools tutorials](https://beta.cent.co/~cryptoartschool)
 
 ### Tokenizing
