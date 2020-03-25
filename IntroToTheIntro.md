@@ -39,7 +39,7 @@ curiosity!
 Now we get to what sets Crypto Art NFTs (what we're making here) apart from other forms of digital art; the tokens!
 
 * [Know Your Token - Part One](https://beta.cent.co/+sku644)
-* [Tokenizing (minting) your work](https://cryptoartschool.github.io/IntroCapsule/5.1-Tokenizing-your-work)
+* [Tokenizing (minting) your work](https://cryptoartschool.github.io/IntroCapsule/4.2-Tokenizing-your-work)
 
 ### Credit
 
