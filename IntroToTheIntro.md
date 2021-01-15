@@ -41,6 +41,14 @@ Now we get to what sets Crypto Art NFTs (what we're making here) apart from othe
 * [Know Your Token - Part One](https://beta.cent.co/+sku644)
 * [Tokenizing (minting) your work](https://cryptoartschool.github.io/IntroCapsule/4.2-Tokenizing-your-work)
 
+
+### Other wonderful resources
+
+[How to become a cryptoartist](https://creative-cabin-training.newzenler.com/courses/how-to-become-a-cryptoartist) by [Creative Cabin](https://creative-cabin-training.newzenler.com/) / [Angie Taylor](https://twitter.com/theAngieTaylor)
+
+[NFT Tutorial Series](https://www.youtube.com/playlist?list=PLnjh8FWWpVQhZTrsuOcSJzrBn10O1MnQi) by [DCLBlogger](https://twitter.com/DCLBlogger)
+
+
 ### Credit
 
 Once you have completed all of the above steps, you can apply for credit for this course:
