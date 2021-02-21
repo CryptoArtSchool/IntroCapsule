@@ -10,6 +10,8 @@ There are many wonderful resources to help get you started off understanding NFT
 
 [NFT Tutorial Series](https://dclblogger.com/nft-tutorials-series-how-to-get-started-investing-or-creating-nfts/) by [DCLBlogger](https://twitter.com/DCLBlogger)
 
+[One Way to Become a CryptoArtist](https://hazmus.medium.com/one-way-to-become-a-cryptoartist-4b3217b60369) by Hazmus
+
 
 
 ### Starting Off
@@ -40,7 +42,7 @@ tools are being used, what the 'look' of each tool is, and how easy or difficult
 curiosity!
 
 * [Creating your first piece of art](https://cryptoartschool.github.io/IntroCapsule/4.1-Creating-the-image-you-want-to-tokenize)
-* [Tools tutorials](https://beta.cent.co/~cryptoartschool)
+* [Tools tutorials](https://beta.cent.co/~cryptoartschool) -- sorry link no longer working, as Cent is no longer serving categories of posts it seems!  If I can find a fix, I will correct this.
 
 ### Tokenizing
 
