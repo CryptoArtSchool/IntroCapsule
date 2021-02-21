@@ -55,6 +55,6 @@ Now we get to what sets Crypto Art NFTs (what we're making here) apart from othe
 ### Credit
 
 Once you have completed all of the above steps, you can apply for credit for this course:
-* [Verifying and Completion Credit](https://cryptoartschool.github.io/IntroCapsule/6.1-Verifying-and-Completion-Credit)
+* [Verifying and Completion Credit](https://cryptoartschool.github.io/IntroCapsule/5.2-Verifying-and-Completion-Credit) -currently on hold due to high gas fees!
 
 If you're ready for more, please feel free to leave any suggestions for content you'd like to see!  Many more topics are planned, and this is only the beginning of the journey with Crypto Art School!
