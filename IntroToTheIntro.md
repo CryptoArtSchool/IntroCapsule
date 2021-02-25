@@ -10,7 +10,7 @@ There are many wonderful resources to help get you started off understanding NFT
 
 [NFT Tutorial Series](https://dclblogger.com/nft-tutorials-series-how-to-get-started-investing-or-creating-nfts/) by [DCLBlogger](https://twitter.com/DCLBlogger)
 
-[One Way to Become a CryptoArtist](https://hazmus.medium.com/one-way-to-become-a-cryptoartist-4b3217b60369) by Hazmus
+[One Way to Become a CryptoArtist](https://hazmus.medium.com/one-way-to-become-a-cryptoartist-4b3217b60369) by [Hazmus](https://harrisonwillmott.uk)
 
 
 
